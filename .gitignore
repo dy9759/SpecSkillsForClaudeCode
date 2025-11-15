@@ -1,0 +1,33 @@
+# SpecSkills同步管理器配置文件
+sync_config.json
+
+# Python缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 环境文件
+.env
+.venv
+env/
+venv/
+
+# IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 临时文件
+*.tmp
+*.temp
+temp/
+logs/
