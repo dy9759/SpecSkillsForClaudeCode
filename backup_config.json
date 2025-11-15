@@ -1,0 +1,141 @@
+{
+  "last_backup": "2025-11-15T10:49:15.101805",
+  "backup_history": [
+    {
+      "timestamp": "2025-11-15T10:49:15.101805",
+      "total_skills": 8,
+      "success_count": 8,
+      "failed_count": 0
+    }
+  ],
+  "skill_info": {
+    "code-test-review-skill": {
+      "name": "code-test-review-skill",
+      "path": "/Users/chauncey2025/Documents/GitHub/SpecSkillsForClaudeCode1108/local-skills-backup/code-test-review-skill",
+      "size": 47034,
+      "files": [
+        "examples.md",
+        "README.md",
+        "SKILL.md",
+        "LICENSE.txt"
+      ],
+      "last_modified": "2025-11-15T10:45:13.393743",
+      "has_skill_md": true,
+      "has_readme": true,
+      "has_examples": true,
+      "has_license": true
+    },
+    "frontend-web-dev-skill": {
+      "name": "frontend-web-dev-skill",
+      "path": "/Users/chauncey2025/Documents/GitHub/SpecSkillsForClaudeCode1108/local-skills-backup/frontend-web-dev-skill",
+      "size": 55918,
+      "files": [
+        "examples.md",
+        "README.md",
+        "SKILL.md",
+        "LICENSE.txt"
+      ],
+      "last_modified": "2025-11-15T10:45:13.398583",
+      "has_skill_md": true,
+      "has_readme": true,
+      "has_examples": true,
+      "has_license": true
+    },
+    "backend-dev-skill": {
+      "name": "backend-dev-skill",
+      "path": "/Users/chauncey2025/Documents/GitHub/SpecSkillsForClaudeCode1108/local-skills-backup/backend-dev-skill",
+      "size": 65926,
+      "files": [
+        "examples.md",
+        "README.md",
+        "SKILL.md",
+        "LICENSE.txt"
+      ],
+      "last_modified": "2025-11-15T10:45:13.389924",
+      "has_skill_md": true,
+      "has_readme": true,
+      "has_examples": true,
+      "has_license": true
+    },
+    "context-engineering-skill": {
+      "name": "context-engineering-skill",
+      "path": "/Users/chauncey2025/Documents/GitHub/SpecSkillsForClaudeCode1108/local-skills-backup/context-engineering-skill",
+      "size": 60629,
+      "files": [
+        "examples.md",
+        "README.md",
+        "SKILL.md",
+        "LICENSE.txt"
+      ],
+      "last_modified": "2025-11-15T10:45:13.397332",
+      "has_skill_md": true,
+      "has_readme": true,
+      "has_examples": true,
+      "has_license": true
+    },
+    "prompt-engineer-skill": {
+      "name": "prompt-engineer-skill",
+      "path": "/Users/chauncey2025/Documents/GitHub/SpecSkillsForClaudeCode1108/local-skills-backup/prompt-engineer-skill",
+      "size": 54751,
+      "files": [
+        "examples.md",
+        "README.md",
+        "SKILL.md",
+        "LICENSE.txt"
+      ],
+      "last_modified": "2025-11-15T10:45:13.401039",
+      "has_skill_md": true,
+      "has_readme": true,
+      "has_examples": true,
+      "has_license": true
+    },
+    "skill-forge-skill": {
+      "name": "skill-forge-skill",
+      "path": "/Users/chauncey2025/Documents/GitHub/SpecSkillsForClaudeCode1108/local-skills-backup/skill-forge-skill",
+      "size": 66502,
+      "files": [
+        "examples.md",
+        "README.md",
+        "SKILL.md",
+        "LICENSE.txt"
+      ],
+      "last_modified": "2025-11-15T10:45:13.402199",
+      "has_skill_md": true,
+      "has_readme": true,
+      "has_examples": true,
+      "has_license": true
+    },
+    "prd-skill": {
+      "name": "prd-skill",
+      "path": "/Users/chauncey2025/Documents/GitHub/SpecSkillsForClaudeCode1108/local-skills-backup/prd-skill",
+      "size": 37421,
+      "files": [
+        "examples.md",
+        "README.md",
+        "SKILL.md",
+        "LICENSE.txt"
+      ],
+      "last_modified": "2025-11-15T10:45:13.399915",
+      "has_skill_md": true,
+      "has_readme": true,
+      "has_examples": true,
+      "has_license": true
+    },
+    "architecture-skill": {
+      "name": "architecture-skill",
+      "path": "/Users/chauncey2025/Documents/GitHub/SpecSkillsForClaudeCode1108/local-skills-backup/architecture-skill",
+      "size": 61332,
+      "files": [
+        "examples.md",
+        "README.md",
+        "SKILL.md",
+        "LICENSE.txt"
+      ],
+      "last_modified": "2025-11-15T10:45:13.387484",
+      "has_skill_md": true,
+      "has_readme": true,
+      "has_examples": true,
+      "has_license": true
+    }
+  }
+}
